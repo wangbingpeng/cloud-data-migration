@@ -126,7 +126,7 @@ This skill helps cloud architects design comprehensive data migration plans betw
 |---------|-----|-------|-----|--------|--------|--------|----------|
 | MongoDB | DocumentDB | Cosmos DB (Mongo API) | MongoDB Atlas | MongoDB | DDS | MongoDB | MongoDB |
 | Redis | ElastiCache Redis | Azure Cache for Redis | Memorystore Redis | Tair/Redis | DCS | CRS | Redis |
-| DynamoDB | DynamoDB | Cosmos DB | Firestore/Datastore | Tablestore | GaussDB NoSQL | TcaplusDB | - |
+| DynamoDB | DynamoDB | Cosmos DB | Firestore/Datastore | PolarDB PostgreSQL/MongoDB | GaussDB NoSQL | TcaplusDB | - |
 | Cassandra | Keyspaces | Managed Instance for Apache Cassandra | Bigtable | Lindorm | GaussDB NoSQL | TcaplusDB | - |
 
 ### 3. 数据仓库 / Data Warehouses
