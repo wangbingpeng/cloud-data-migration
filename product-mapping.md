@@ -89,7 +89,8 @@
 | **AWS** | Amazon DynamoDB | Key-Value, Document | 无服务器, 全局表 | AWS DMS, DynamoDB Streams |
 | **Azure** | Azure Cosmos DB | Multi-model | SQL, Mongo, Cassandra, Table API | Azure Data Factory |
 | **GCP** | Cloud Firestore / Datastore | Document | 实时同步, 离线持久 | Firestore Data Bundles |
-| **阿里云** | Tablestore (OTS) | Wide Column | 海量数据, 低延迟, 时序数据 | OTS迁移工具, DataX |
+| **阿里云** | PolarDB PostgreSQL | Multi-model | dynamo协议兼容, 分布式, json存储模型 | NimoShake迁移工具, DataX |
+| **阿里云** | MongoDB | Document | schema-free, json存储, 分布式扩展 | NimoShake迁移工具, DataX |
 | **阿里云** | Lindorm | 多模 (Wide Column, Search, TSDB) | 云原生多模数据库, HBase/ES/TSDB兼容 | Lindorm迁移工具, HBase API |
 | **华为云** | GaussDB NoSQL | Document | MongoDB兼容 | DRS |
 | **腾讯云** | TcaplusDB | Key-Value | 游戏场景优化 | TcaplusDB迁移工具 |
